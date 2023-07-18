@@ -4,7 +4,7 @@ Hello, welcome to the "How to use" guide !
 
 I) Installation
 
-    Please be sure to have installed all the following librairies :
+Please be sure to have installed all the following librairies :
                                                           			        -tkinter
                                                          			        -os
                                                          			        -pillow
@@ -18,12 +18,12 @@ I) Installation
 
 II) Utilisation
 
-    Once all the librairies are downloaded, you can try to run the code. 
-    It allows, for now, only excel (.xslx) files. Please, follow the following steps :
+Once all the librairies are downloaded, you can try to run the code. 
+It allows, for now, only excel (.xslx) files. Please, follow the following steps :
 
-        1) Open Smartview. I use the free version of it. I never tried with Smartview R&D but it should work.
-        2) Open a picture
-    ![alt tag]
+1) Open Smartview. I use the free version of it. I never tried with Smartview R&D but it should work.
+2) Open a picture
+    ![alt tag](https://github.com/Eitonan/thermical_image_analysis/issues/1#issue-1810551769)
         
 
 
