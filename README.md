@@ -13,8 +13,9 @@ Please be sure to have installed all the following librairies :
                                                        					    -time
                                                         					-numpy
                                                          				    -mathplotlib
-    Most of them are already installed, but if you doubt, you can try using the command pip -install "name_librairy" in the terminal.
-    The program runs using the version 3.9.7 of python.
+                                                                 
+  Most of them are already installed, but if you doubt, you can try using the command pip -install "name_librairy" in the terminal.
+  The program runs using the version 3.9.7 of python.
 
 II) Utilisation
 
