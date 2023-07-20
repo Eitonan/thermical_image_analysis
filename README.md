@@ -91,14 +91,18 @@ Make sure to have the « Etiqueta » in line 5 and « A0 » in line 6. Then save
 
 
 You can choose the values of the treshold here :
-  ![alt tag](https://user-images.githubusercontent.com/125255391/254379364-84392cbd-b274-4ce2-8cf2-254449499d6b.png)
+    ![alt tag](https://user-images.githubusercontent.com/125255391/254379364-84392cbd-b274-4ce2-8cf2-254449499d6b.png)
 
  
 The colormap here : 
-    ![alt tag](https://user-images.githubusercontent.com/125255391/254379409-cf7156d0-c14a-41f1-aa68-fa9a3f0b0ac6.png)
+    
+    
+  ![alt tag](https://user-images.githubusercontent.com/125255391/254379409-cf7156d0-c14a-41f1-aa68-fa9a3f0b0ac6.png)
  
 You can choose to save and/or show the picture by clicking here :
-     ![alt tag](https://user-images.githubusercontent.com/125255391/254379453-94afe1e1-7921-4484-a885-d023919731b6.png)
+    
+     
+  ![alt tag](https://user-images.githubusercontent.com/125255391/254379453-94afe1e1-7921-4484-a885-d023919731b6.png)
      
 Then, run and enjoy.
 
