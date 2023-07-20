@@ -23,7 +23,7 @@ It allows, for now, only excel (.xslx) files. Please, follow the following steps
 
 1) Open Smartview. I use the free version of it. I never tried with Smartview R&D but it should work.
 2) Open a picture
-    ![alt tag]((https://github.com/Eitonan/thermical_image_analysis/assets/125255391/fbfe361b-53c7-4b3d-829e-36ba6b2fe649)
+    ![alt tag](https://user-images.githubusercontent.com/125255391/254378567-27fef47a-6de7-44d1-ae3a-d3bff91aeb8d.png)
         
 
 
