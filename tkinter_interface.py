@@ -10,7 +10,7 @@ import tkinter as tk
 from tkinter import *
 import os
 from PIL import ImageTk,Image
-import excel_con_gradient_v2
+import image_traitement
 
 
 class Display(object):
