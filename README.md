@@ -61,7 +61,7 @@ It allows, for now, only excel (.xslx) files. Please, follow the following steps
 
 <b>Step 3.</b> Open the picture editor (either by double-clicking on it or this icon)  
 
-      ![alt tag](https://user-images.githubusercontent.com/125255391/254378686-76425d9b-8a56-4bc6-b6e5-dfbaab5bcdb7.png)
+  ![alt tag](https://user-images.githubusercontent.com/125255391/254378686-76425d9b-8a56-4bc6-b6e5-dfbaab5bcdb7.png)
    
 <b>Step 4.</b> It opens this :
 
@@ -71,7 +71,7 @@ It allows, for now, only excel (.xslx) files. Please, follow the following steps
 <b>Step 5.</b> Select the back temperature and emisivity depending on your case
 
 
-    ![alt tag](https://user-images.githubusercontent.com/125255391/254378834-94d77632-f64c-4924-9cec-d1475412c4b5.png)
+  ![alt tag](https://user-images.githubusercontent.com/125255391/254378834-94d77632-f64c-4924-9cec-d1475412c4b5.png)
 
 <b>Step 6.</b> Select the type of marker you wish to use (can be any shape) and select the region you wish perform the analysis onto. Don’t use more  than one marker ! It will create an error otherwise. 
      ![alt tag](https://user-images.githubusercontent.com/125255391/254378909-f42aaecf-248e-4bb8-9c24-ab709553816e.png)
