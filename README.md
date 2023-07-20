@@ -17,6 +17,29 @@ Please be sure to have installed all the following librairies :
   Most of them are already installed, but if you doubt, you can try using the command pip -install "name_librairy" in the terminal.
   The program runs using the version 3.9.7 of python.
 
+  ## Steps
+<br />
+<b>Step 1.</b> Clone this repository: https://github.com/Eitonan/thermical_image_analysis
+<br/><br/>
+<b>Step 2.</b> Create a new virtual environment 
+<pre>
+python -m venv analysis
+</pre> 
+<br/>
+<b>Step 3.</b> Activate your virtual environment
+<pre>
+source analysis/bin/activate # Linux
+.\analysis\Scripts\activate # Windows 
+</pre>
+<br/>
+<b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
+<pre>
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=tfodj
+</pre>
+<br/>
+
 II) Utilisation
 
 Once all the librairies are downloaded, you can try to run the code. 
