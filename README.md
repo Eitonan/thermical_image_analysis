@@ -97,6 +97,9 @@ You can choose the values of the treshold here :
 The colormap here : 
     
     
+  
+  
+  
   ![alt tag](https://user-images.githubusercontent.com/125255391/254379409-cf7156d0-c14a-41f1-aa68-fa9a3f0b0ac6.png)
  
 You can choose to save and/or show the picture by clicking here :
