@@ -22,8 +22,9 @@ Once all the librairies are downloaded, you can try to run the code.
 It allows, for now, only excel (.xslx) files. Please, follow the following steps :
 
 1) Open Smartview. I use the free version of it. I never tried with Smartview R&D but it should work.
+
 2) Open a picture
-![alt tag](https://user-images.githubusercontent.com/125255391/254378567-27fef47a-6de7-44d1-ae3a-d3bff91aeb8d.png)
+    ![alt tag](https://user-images.githubusercontent.com/125255391/254378567-27fef47a-6de7-44d1-ae3a-d3bff91aeb8d.png)
         
 
 
