@@ -101,7 +101,7 @@ class Display(object):
         Show = self.show_var.get()
         if self.ImgName == 'list_not_empty':
            self.ImgName='inferno'
-        excel_con_gradient_v2.Main(self.ImgName, List, Save, Show)
+        image_traitement.Main(self.ImgName, List, Save, Show)
         
         return None
 
