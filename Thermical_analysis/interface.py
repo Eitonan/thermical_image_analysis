@@ -34,7 +34,7 @@ class Display(object):
         RunBtn = Button(self.framePhoto, text= 'Run' , command=lambda s=self: s.Run(), bg = 'light blue', width= 10).place(x=700,y=300, anchor=SE)
         Txt_label = Label(master=self.framePhoto,text ='Enter the values of threshold',justify='center').place(x=50,y=85,width=200)
         Txt_color_label = Label(master=self.framePhoto,text ='Select a colormap',justify='center').place(x=85,y=230,width=250)
-        SaveBtn = Checkbutton(self.framePhoto, text= 'Save image', variable= self.save_var).place(x=170, y= 425, anchor= SE)
+        SaveBtn = Checkbutton(self.framePhoto, text= 'Save image and analysis', variable= self.save_var).place(x=170, y= 425, anchor= SE)
         ShowBtn = Checkbutton(self.framePhoto, text= 'Show image', variable= self.show_var).place(x=350, y= 425, anchor= SE)
         HistBtn = Checkbutton(self.framePhoto, text= 'Show Histogramme', variable= self.hist_var).place(x=280, y= 475, anchor= SE)
 
