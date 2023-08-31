@@ -75,7 +75,7 @@ def tratamiento (df,df_Infos,List_treshold,path2save,name_file,cmap, Save, Hist)
     return List_image
 
 def Workbook_management(List_analysis,Name_image,path2save):         #Creates and write the analyse inside an .xls doc
-    WORKBOOK_PATH = path2save + r"\Workbook.xls"                     #Workbook path
+    WORKBOOK_PATH = path2save + r"\Analysis.xls"                     #Workbook path
     List_analysis.insert(0,Name_image)
     Title = ['Image','Mean','Standart Deviation','Variance',         #Creates labels for the columns
              'Entropy','Energy','Kurtosis','Skewness','Name Law','Param Law','Sse']
@@ -154,7 +154,7 @@ def Image_show(List_image, titles=None,color=None):    #to display image
 
 def where_to_save ():                        #creates a folder in the designed folder to save the data
      parent_directory=askdirectory(title="Choose where to save the data")
-     directory="Save test"
+     directory="Save"
      path=os.path.join(parent_directory,directory)
      os.mkdir(path)
      print("Directory created")
